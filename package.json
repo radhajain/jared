@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-responsive-carousel": "^3.1.49",
+    "react-reveal": "^1.2.2",
+    "react-scripts": "3.0.1",
+    "react-scroll-parallax": "^2.1.2",
+    "react-transition-group-v2": "^2.4.0",
+    "react-typing-effect": "^2.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
